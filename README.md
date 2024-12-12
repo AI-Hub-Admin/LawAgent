@@ -33,15 +33,17 @@ AI algorithms can analyze historical data to predict case outcomes based on patt
 ### Clio Duo
 
 description: Clio Duo is powered by the latest Microsoft Azure OpenAI GPT-4 technology which is your dynamic AI-powered partner, available in Clio's legal practice management software. 
+
 website: https://clio.com
-content_tag_list: legal,law,legal practice
+
+tag: legal,law,legal practice
 
 
 ###  CaseText CoCounsel
 description: CoCounsel is an large language model powered by OpenAI. This AI tool is a legal assistant that is knowledgeable, reliable, and secure enough to support the practice of law.
 website: https://casetext.com/
 
-content_tag_list: legal,law,legal assistant
+tags: legal,law,legal assistant
 
 
 ### Harvey AI
@@ -49,7 +51,8 @@ content_tag_list: legal,law,legal assistant
 description: Using a mix of different types of AI—natural language processing and machine learning—Harvey AI is an AI-powered legal research tool that’s touted as “unprecedented legal AI.” Similar to the AI bot ChatGPT, Harvey AI is built on a version of Open.AI's GPT AI, while also using general legal data (like case law) and a law firm’s own work products and templates to specifically support legal work. 
 
 website: https://www.harvey.ai/
-content_tag_list: legal,law,legal research
+
+tags: legal,law,legal research
 
 
 ###  Diligen 
@@ -57,7 +60,8 @@ content_tag_list: legal,law,legal research
 description: Reviewing contracts can be time-consuming and tedious, but Diligen helps make the review process more efficient. Using Diligen’s machine learning-powered analysis, you can conduct due diligence to review contracts for specific clauses, provisions, or changes and quickly output a convenient summary. And, to further streamline your workflows and review contracts even faster, lawyers and legal professionals can also import documents directly between Diligen and Clio’s document management software for efficient document organization.
 
 website: https://www.diligen.com/
-content_tag_list: legal,law,contracts review
+
+tags: legal,law,contracts review
 
 
 ## Smith.ai
@@ -65,7 +69,8 @@ content_tag_list: legal,law,contracts review
 description: Helping your firm stay responsive without using the time of dedicated reception staff, Smith.ai is an outsourcing platform that uses a “virtual receptionist” to answer calls for lawyers and law firms. The virtual receptionist is an actual human, but Smith.ai uses AI with its chatbot features and when deciding how to log and route calls. Both the receptionist and chat features integrate with Clio. 
 
 website: https://smith.ai/
-content_tag_list: legal,law,virtual receptionist
+
+tags: legal,law,virtual receptionist
 
 
 
