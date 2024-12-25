@@ -93,11 +93,14 @@ import LawAgent as la
 [AI in Law Application](http://www.deepnlp.org/store/law) <br>
 [AI Agent Resources](http://www.deepnlp.org/blog?category=agent) <br>
 [AI Agent Law Resources](http://www.deepnlp.org/blog?category=law) <br>
-#### AI Agent Marketplace and Search Portal
-[AI Agent Marketplace and Search](http://www.deepnlp.org/search/agent/) <br>
+##### AI Agent Marketplace and Search
+[AI Agent Marketplace and Search](http://www.deepnlp.org/search/agent) <br>
 [Robot Search](http://www.deepnlp.org/search/robot) <br>
+[Equation and Academic search](http://www.deepnlp.org/search/equation) <br>
 [AI & Robot Comprehensive Search](http://www.deepnlp.org/search) <br>
-
+[AI & Robot Question](http://www.deepnlp.org/question) <br>
+[AI & Robot Community](http://www.deepnlp.org/community) <br>
+[AI Agent Marketplace Blog](http://www.deepnlp.org/blog/ai-agent-marketplace-and-search-portal-reviews-2025) <br>
 ##### AI Agent
 [Microsoft AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-microsoft-ai-agent) <br>
 [Claude AI Agents Reviews](http://www.deepnlp.org/store/pub/pub-claude-ai-agent) <br>
@@ -110,6 +113,9 @@ import LawAgent as la
 [AI Agent Pro Master](https://agentpromaster.github.io/ai-agent) <br>
 [RAG Visualizer Agent](https://aiforce1024.github.io/rag_tutorial) <br>
 [Chat Visualizer Agent](https://llmpro70b.github.io/Chat-Visualizer) <br>
+##### Reasoning
+[OpenAI o1 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o1) <br>
+[OpenAI o3 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o3) <br>
 ##### Chatbot
 [OpenAI o1 Reviews](http://www.deepnlp.org/store/pub/pub-openai-o1) <br>
 [ChatGPT User Reviews](http://www.deepnlp.org/store/pub/pub-chatgpt-openai) <br>
